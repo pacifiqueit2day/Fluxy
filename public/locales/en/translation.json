@@ -1,0 +1,10 @@
+{
+    "dashboard" : "Dashboard",
+    "profile" : "Profile",
+    "email" : "Email",
+    "password" : "Password",
+    "forgot-password" : "forgot password ?",
+    "change-password" : "Change password",
+    "setting" : "Setting",
+    "settings" : "Settings"
+}
